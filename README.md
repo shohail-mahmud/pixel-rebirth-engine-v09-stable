@@ -4,6 +4,10 @@
 
 This release is intentionally polished, minimal, and fully stable.
 
+## Live URL 
+
+https://pixel-rebirth-engine-v09-stable.vercel.app/
+
 ---
 
 ## 🚀 Core Concept (v09 Stable)
